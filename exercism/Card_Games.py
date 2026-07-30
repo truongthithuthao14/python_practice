@@ -1,4 +1,3 @@
-
 def concatenate_rounds(rounds_1: list[int], rounds_2: list[int]) -> list[int]:
     """Concatenate two lists of round numbers.
     Parameters:
