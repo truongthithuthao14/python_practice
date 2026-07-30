@@ -1,0 +1,9 @@
+# Bỏ qua môi trường ảo Python
+.venv/
+myenv/
+venv/
+ENV/
+
+# Bỏ qua các file rác tự động sinh ra khi chạy code Python
+__pycache__/
+*.pyc
